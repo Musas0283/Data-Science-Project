@@ -1,2 +1,3 @@
 # Data-Science-Project
-New Data Science codes 
+the classification model  using catholic dataset is comparing three models to find out which one performs better in classification 
+
